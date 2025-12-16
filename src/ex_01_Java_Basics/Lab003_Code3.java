@@ -6,5 +6,6 @@ public class Lab003_Code3
         System.out.print("OK");
         System.out.println("KO");
         System.out.println("New line");
+        System.out.println("New line added");
     }
 }
