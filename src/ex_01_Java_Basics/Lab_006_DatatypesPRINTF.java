@@ -7,7 +7,7 @@ public class Lab_006_DatatypesPRINTF
         byte Age=25;
         short Salary=25000;
         int Employee_ID = 100;
-        long Contact_Number = 123456789l;
+        long Contact_Number = 123456789L;
         float percentage = 88.99f;
         double price = 12345.6789;
         char grade = 'A';
