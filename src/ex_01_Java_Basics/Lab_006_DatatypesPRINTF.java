@@ -21,7 +21,7 @@ public class Lab_006_DatatypesPRINTF
         System.out.printf("Price is %f\n", price);
         System.out.printf("Grade is %c\n", grade);
         System.out.printf("Role is %s\n", Role);
-         //all datatypes are covered ok
+         //all datatypes are covered ok n
     }
 }
 
