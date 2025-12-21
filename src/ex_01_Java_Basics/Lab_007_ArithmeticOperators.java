@@ -10,5 +10,7 @@ public class Lab_007_ArithmeticOperators
         System.out.println("Multiplication :" + (a*b));
         System.out.println("Division :" + (a/b));
         System.out.println("Modulus :" + (a%b));
+         // java operators
+
     }
 }
