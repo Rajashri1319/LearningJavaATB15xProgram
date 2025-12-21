@@ -9,7 +9,7 @@ public class Lab_008_RelationalOperators
         System.out.println(x<y);
         System.out.println(x==y);
         System.out.println(x!=y);
-         //Relational Operators12
+
 
     }
 
