@@ -5,6 +5,7 @@ public class SwapTwoNumbersusingArithmeticOperators
     static void main(String[] args) {
         int a=10;
         int b=20;
+         //how to swap two numbers WITHOUT using a third variable
         System.out.println("Before Swap :");
         System.out.println("a :"+a);
         System.out.println("b :"+b);
