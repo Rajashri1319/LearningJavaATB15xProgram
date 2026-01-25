@@ -1,5 +1,7 @@
 package OOPs_concept;
 
+ //Create a method and call it using object.
+
 public class Calculator {
     void add()                     // declared method
     {
